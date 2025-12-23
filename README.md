@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer • Computer Science Graduate • Game Dev Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/YonatanGreen">
-    <img src="https://img.shields.io/github/followers/YonatanGreen?label=Followers&style=social" />
+  <a href="https://github.com/yonatanyg">
+    <img src="https://img.shields.io/github/followers/yonatanyg?label=Followers&style=social" />
   </a>
 </p>
 
@@ -43,11 +43,11 @@ I like projects that mix **logic, creativity, and clean architecture** — wheth
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YonatanGreen&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yonatanyg&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonatanGreen&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatanyg&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I like projects that mix **logic, creativity, and clean architecture** — wheth
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YonatanGreen">
+  <a href="https://github.com/yonatanyg">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
   <!-- Add LinkedIn when ready -->
