@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Yonatan 👋</h1>
 <h3 align="center">Software Developer • Computer Science Graduate • Game Dev Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/yonatanyg">
-    <img src="https://img.shields.io/github/followers/yonatanyg?label=Followers&style=social" />
-  </a>
-</p>
 
 ---
 
