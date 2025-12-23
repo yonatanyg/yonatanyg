@@ -50,10 +50,9 @@ I like projects that mix **logic, creativity, and clean architecture** — wheth
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yonatanyg">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Add LinkedIn when ready -->
+  
+    
+  yonatanyg@gmail.com
 </p>
 
 ---
